@@ -1,7 +1,7 @@
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 
-const GsapFrom = () => {
+export default function GsapFrom() {
   useGSAP(() => {
     gsap.from('#green-box', {
       x: 400,
@@ -48,6 +48,4 @@ const GsapFrom = () => {
       </div>
     </main>
   );
-};
-
-export default GsapFrom;
+}
