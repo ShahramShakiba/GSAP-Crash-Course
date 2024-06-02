@@ -1,10 +1,15 @@
-import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
+import gsap from 'gsap';
 
-const GsapTo = () => {
+export default function GsapTo() {
   useGSAP(() => {
     gsap.to('#blue-box', {
       x: 300,
+      repeat: -1,
+      yoyo: true,
+      rotation: 360,
+      duration: 2,
+      ease:'circ.inOut'
     });
   }, []);
 
@@ -42,6 +47,4 @@ const GsapTo = () => {
       </div>
     </main>
   );
-};
-
-export default GsapTo;
+}
