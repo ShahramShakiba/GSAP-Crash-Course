@@ -16,7 +16,8 @@ export default function GsapScrollTrigger() {
 
       boxes.forEach((box) => {
         gsap.to(box, {
-          x: 200 * (boxes.indexOf(box) + 2),
+          // x: 200 * (boxes.indexOf(box) + 2),
+          x: 450,
           rotation: 360,
           borderRadius: '100%',
           scale: 1.5,
@@ -32,7 +33,7 @@ export default function GsapScrollTrigger() {
 
             scrub: 3,
             //scrubbing makes the animation smooth - the higher value makes it smoother
-            pin: true, //pin the trigger element while active
+            // pin: true, //pin the trigger element while active
 
             // snap: {
             //   snapTo:'.arrow', // snap to the closest label in the timeline
