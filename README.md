@@ -5,9 +5,13 @@
 
 > To begin with, it is important to note that, this project have been sourced from an exceptional GSAP Animations Crash Course from "JavaScript Mastery". <br/>
  
-> 👤 Instructed by a _proficient_ and _expert educator_, ` "Adrian Hajdin". ` 
- 
+> 👤 Instructed by a _proficient_ and _expert educator_, ` "Adrian Hajdin". `
 
+<br/>
+ 
+###  _GSAP_, or _GreenSock Animation Platform_, is a powerful JavaScript Animation Library.
+- #### _GSAP allows you to effortlessly animate anything JS can touch. Delivering silky-smooth performance and unmatched support so you can focus on the fun stuff._
+- #### _Animate CSS, SVG, Canvas, React, Vue, WebGL, Colors, Strings, Motion paths, Generic objects..._
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
