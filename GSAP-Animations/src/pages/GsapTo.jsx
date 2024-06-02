@@ -4,12 +4,13 @@ import gsap from 'gsap';
 export default function GsapTo() {
   useGSAP(() => {
     gsap.to('#blue-box', {
-      x: 300,
+      x: 400,
+      y: -75,
       repeat: -1,
       yoyo: true,
       rotation: 360,
-      duration: 2,
-      ease:'circ.inOut'
+      duration: 2.5,
+      ease: 'circ.inOut',
     });
   }, []);
 
