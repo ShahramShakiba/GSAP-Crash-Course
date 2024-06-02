@@ -21,33 +21,30 @@
 <!--===================== GSAP Animations =============================-->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" height="30"  /> &nbsp; _GSAP Animations_  &nbsp; <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="nextjs logo"  />
 
- ### 🧩 Picture this: ..._
- #### - _This project is ..._
+ ### 🧩 _This crash course project aims to provide a quick and effective way to understand the capabilities and fundamental functions of GSAP, enabling developers to effortlessly create captivating and cutting-edge animations._
 
- <br/><br/>
+ <br/>
 
 > [!IMPORTANT]
->> #### It is crucial to grasp that the project incorporates ...
-
-  <br/>
-
-- Get ready to ...
+>> #### It is crucial to grasp that the project serves as a brief demonstration of the power of GSAP.
 
 <br/><br/>
 
 > _Which Concepts Have I Covered_: 
-01. __
-<br/><br/>
-
-<!-------- try it live -------->
-#### _Give it a go in real-time and give me a Star_ &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25"  /> <a href="" target="_blank"> &nbsp; __ </a> 
+01. _GSAP To Method | gsap.to()_
+02. _GSAP From Method | gsap.from()_
+03. _GSAP FromTo Method | gsap.fromTo()_
+04. _GSAP Timeline Method | gsap.timeline()_
+05. _GSAP Stagger Feature_
+06. _GSAP ScrollTrigger Plugin_
+07. _GSAP Text_
 
 <br/>
 
 <!--------- Video --------->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Clapper%20Board.webp" alt="Clapper Board" width="35" />
 
-
+https://github.com/ShahramShakiba/GSAP-Crash-Course/assets/110089830/e3c7e576-f10a-41e3-a4bb-b9c5454c0b7a
 
   <br/> 
 
